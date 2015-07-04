@@ -5,7 +5,7 @@ permalink:           pretty
 relative_permalinks: true
 
 # Setup
-title:               Stewart's Virtual World
+title:               'Stewart's Virtual World'
 tagline:             'don't let reality spoil your day.'
 description:         'Welcome to Stewart's little corner of the internet.'
 url:                 http://adcock.org.uk
@@ -16,7 +16,7 @@ paginate:            5
 author:
   name:              Stewart Adcock
   url:               http://adcock.org.uk
-  twitter:           https://twitter.com/Stewartadcock
+  email:             stewart@adcock.org.uk
 
 # Custom vars
 version:             1.0.0
