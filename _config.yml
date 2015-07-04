@@ -1,0 +1,22 @@
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           pretty
+relative_permalinks: true
+
+# Setup
+title:               Stewart's Virtual World
+tagline:             'don't let reality spoil your day.'
+description:         'Welcome to Stewart's little corner of the internet.'
+url:                 http://adcock.org.uk
+baseurl:             ''
+paginate:            5
+
+# About/contact
+author:
+  name:              Stewart Adcock
+  url:               http://adcock.org.uk
+  twitter:           https://twitter.com/Stewartadcock
+
+# Custom vars
+version:             1.0.0
