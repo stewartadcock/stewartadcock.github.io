@@ -1,3 +1,7 @@
+# Dependencies
+markdown:            redcarpet
+highlighter:         pygments
+
 # Permalinks
 #
 # Use of `relative_permalinks` ensures post links from the index work properly.
@@ -5,7 +9,7 @@ permalink:           pretty
 relative_permalinks: true
 
 # Setup
-title:               'Stewart's Virtual World'
+title:               Stewart\'s Virtual World
 tagline:             'don't let reality spoil your day.'
 description:         'Welcome to Stewart's little corner of the internet.'
 url:                 http://adcock.org.uk
@@ -20,3 +24,16 @@ author:
 
 # Custom vars
 version:             1.0.0
+github:
+  repo:              https://github.com/stewartadcock/stewartadcock.github.io
+
+# List of pages to include in the header of the website
+pages_list:
+  About:            '/about/'
+  Posts:            '/posts/'
+  Feed:             '/atom.xml'
+
+# Allow URL redirects.
+# See also: https://help.github.com/articles/redirects-on-github-pages/
+gems:
+  - jekyll-redirect-from
