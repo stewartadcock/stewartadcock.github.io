@@ -9,9 +9,9 @@ permalink:           pretty
 relative_permalinks: true
 
 # Setup
-title:               Stewart\'s Virtual World
-tagline:             'don't let reality spoil your day.'
-description:         'Welcome to Stewart's little corner of the internet.'
+title:               Stewart Adcock
+tagline:             ''
+description:         ''
 url:                 http://adcock.org.uk
 baseurl:             ''
 paginate:            5
