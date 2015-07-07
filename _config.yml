@@ -1,4 +1,6 @@
 # Dependencies
+
+
 markdown:            redcarpet
 highlighter:         pygments
 
@@ -21,6 +23,13 @@ author:
   name:              Stewart Adcock
   url:               http://adcock.org.uk
   email:             stewart@adcock.org.uk
+
+# Tags
+tags:
+  github:
+    name: GitHub
+  jekyll:
+    name: Jekyll
 
 # Custom vars
 version:             1.0.0
