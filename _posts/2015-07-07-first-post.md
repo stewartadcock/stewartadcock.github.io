@@ -20,6 +20,7 @@ Key requirements were to provide for myself a platform that:
 3. Provided a place to archive, document and share some of my software projects.
 
 Those requirements are now all out-dated because, respectively:
+
 1. I can use Facebook for these "posts" and reach the full audience rather than just those that want to browse my site.
 2. I have recovered from my interest in PHP.
 3. Places like GitHub have far more features for maintaining such content, and these are where people who care would look.
