@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Posts archive
+title: Posts
 permalink: posts/
 ---
 
