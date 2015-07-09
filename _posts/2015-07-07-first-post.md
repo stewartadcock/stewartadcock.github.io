@@ -23,13 +23,13 @@ Those requirements are now all out-dated because, respectively:
 
 1. I can use Facebook for these "posts" and reach the full audience rather than just those that want to browse my site.
 2. I have recovered from my interest in PHP.
-3. Places like GitHub have far more features for maintaining such content, and these are where people who care would look.
+3. Places like GitHub have far more features for maintaining such content, and these places are where people who care would look.
 
 ## What I want from my new site
 
 There are lots of considerations, but these are my four biggest wishes for my new site:
 
-1. I'd like to share knowledge on certain, perhaps esoteric and certainly technical topics. I wouldn't expect anyone to read my blog posts as a matter of course, but I'd like Google (and friends) to bring interested individuals to particular articles.
+1. I'd like to share knowledge on certain, perhaps esoteric and certainly technical, topics. I wouldn't expect anyone to read my blog posts as a matter of course, but I'd like Google (and friends) to bring interested individuals to particular articles.
 2. I'd like to spend my time on useful projects rather than maintaining my website, and yet I want compete control of the technical details.
 3. I'd like to be able to work both off-line and on my tablet/phone while away from home.
 4. I'd like my content to be portable, and better suited to version control than my previous SQLite3-stored data.
