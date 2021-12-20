@@ -24,4 +24,4 @@ Let me introduce yoga for software engineers, which guides you through some simp
 practices designed specifically for people like you and me to live a more healthy 
 and fulfilling life!
 
-To learn more, visit https://www.yogicllama.com/ and sign up for the newsletter.
+To learn more, visit [www.yogicllama.com](https://www.yogicllama.com/) and sign up for the newsletter.
