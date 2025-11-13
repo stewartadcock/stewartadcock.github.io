@@ -11,7 +11,7 @@ Two thoughts had been swirling around my head for a while…
 1. There are a lot of people out there who need yoga in their lives - whether that’s for physical or mental reasons (or just for fun!)
 2. I was annoyed at the technical challenge, and even more annoyed at the costs, when I looked for options to share videos with a wider audience.
 
-I was in a position where if anyone could fix those two problems, it was me.  So I did.
+If anyone could fix those two problems, it was me.  So I did.
 
 # For Students
 
@@ -50,8 +50,8 @@ Interested in watching yoga-related content for free (with premium content for a
 
 Interested in showcasing or selling content?
 
-If you’ve answer yes to either question, I invite you to take a look! And, I am actively looking for teachers to provide content.
+If you answer yes to either question, I invite you to take a look! And, I am actively looking for teachers to provide content.
 
-[Visit Movement Prescription Today! →](https://movement-prescription.com/)
+[Visit Movement Prescription Today →](https://movement-prescription.com/)
 
 ![screenshot of movement prescription](https://images.squarespace-cdn.com/content/v1/61ae979494cb7a3c3a91dd0b/1762637610440-0V9N83AZVMKYJZON78IR/Screenshot+2025-11-07+at+21.19.57.png?format=800w)
